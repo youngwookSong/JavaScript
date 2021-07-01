@@ -131,7 +131,7 @@ nunu.name //kim이 나옴. 프로토타입에 저장되어있어서
 //메소드를 그냥 쓸 수 있는 이유가 프로토타입이 있어서
 
 //class
-
+//객체와 비슷함
 class Hero {
     constructor(a) {
         this.q = a;
