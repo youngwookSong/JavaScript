@@ -68,7 +68,7 @@ let oo = 1;
 console.log(oo);
 //console.log(oo2); -> oo2는 지역변수이므로 에러!
 
-//화살표 함수
+//화살표 함수 () => {}
 const arrow = (x,y) => {
     console.log(x+y);
 }
